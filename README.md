@@ -5,10 +5,15 @@ First time setup instructions:
 2) open command prompt and type
    ```
         pip install tkinter
+   ```
+   ```
         pip install pillow
+   ```
+   ```
         pip install pypdf
    ```
-4) double click the shortcut and you should be good to go!
+   
+3) double click the shortcut and you should be good to go!
 
 List of things that still need to be added:
 1) ability to set number of slides per page
