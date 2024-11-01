@@ -13,7 +13,7 @@ First time setup instructions:
         pip install pypdf
    ```
    
-3) double click the shortcut and you should be good to go!
+3) double click PDSlyde.py and you should be good to go!
 
 List of things that still need to be added:
 1) ability to set number of slides per page
